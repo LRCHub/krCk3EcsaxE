@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "歌舞伎町の女王",
+  "base_artist": "椎名林檎",
+  "createdAt": "2026-02-21T04:24:59.434172Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_歌舞伎町の女王_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/02_歌舞伎町の女王_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kabukicho no Joou [歌舞伎町の女王]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/03_Kabukicho_no_Joou_[歌舞伎町の女王]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/04_歌舞伎町の女王_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王 - 座禅エクスタシー '00",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/05_歌舞伎町の女王_-_座禅エクスタシー_'00_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王 <“座禅エクスタシー”2000.7.30嘉穂劇場>",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/06_歌舞伎町の女王__“座禅エクスタシー”2000.7.30嘉穂劇場_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/07_歌舞伎町の女王_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王 ／ \"座禅エクスタシー\" 2000.7.30 嘉穂劇場",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/08_歌舞伎町の女王____座禅エクスタシー__2000.7.30_嘉穂劇場_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/09_歌舞伎町の女王_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/10_歌舞伎町の女王_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "実録 -新宿にて- 丸ノ内サディスティック ~ 歌舞伎町の女王",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/11_実録_-新宿にて-_丸ノ内サディスティック_~_歌舞伎町の女王_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王 (座禅エクスタシー '00)",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/12_歌舞伎町の女王_(座禅エクスタシー_'00)_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王 <“座禅エクスタシー”2000.7.30嘉穂劇場>",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/13_歌舞伎町の女王__“座禅エクスタシー”2000.7.30嘉穂劇場_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "実録 -新宿にて- 丸ノ内サディスティック〜歌舞伎町の女王",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/14_実録_-新宿にて-_丸ノ内サディスティック〜歌舞伎町の女王_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "椎名林檎 - 歌舞伎町の女王",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/15_椎名林檎_-_歌舞伎町の女王_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/16_歌舞伎町の女王_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/17_歌舞伎町の女王_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "歌舞伎町の女王",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/18_歌舞伎町の女王_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歌舞伎町の女王",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_歌舞伎町の女王_椎名_林檎.txt"
+    }
+  ]
+}
